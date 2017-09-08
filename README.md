@@ -11,4 +11,10 @@ The goal of this repository is to share different dojo modules/components.
     <li>To make requests more readable, request-parameters are built automatically based on a Key/Value map</li>
     <li>It automatically wraps a deferred around the request.</li>
     </ul>
+    
+<li>Comming soon</li>
+	<ul>
+	<li>RTC Widget Body</li>
+	<li>Dojo Dependency Injector</li>
+	</ul>
 </ul>
