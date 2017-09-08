@@ -1,11 +1,14 @@
-# Dojo-Utils
-A collection with usefull dojo modules
-
-
-<h1> GitLab Commit Connector </h1>
+<h1> Dojo-Utils </h1>
 <p>
-What can you do with this "Work Item Editor"-Plugin? <br>
-It gives the possibility to work with an gitLab VCS in RTC. <br>
-It links gitLab commits to "RTC Work Items" and in reversal adding a backlink to the gitLab commit. <br>
-!!! For now we can only load the last 100 commits !!! <br>
+The goal of this repository is to share different dojo modules/components.
 </p>
+
+<h2>Current Modules</h2>
+<ul>
+<li>dojo-xhr-manager</li>
+    <ul>
+    <li>The goal of this module is to simplify the use of HTTP-Requests</li>
+    <li>To make requests more readable, request-parameters are built automatically based on a Key/Value map</li>
+    <li>It automatically wraps a deferred around the request.</li>
+    </ul>
+</ul>
